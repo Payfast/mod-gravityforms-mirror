@@ -1,7 +1,6 @@
 {
   "name": "PayFast/mod-gravityforms-mirror",
   "type": "wordpress-plugin",
-  "license": "PayFast Copyright",
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.5.0"
